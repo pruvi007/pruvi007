@@ -6,3 +6,6 @@
 
 ### CodeForces Rating Card - pruv007
 <img width='50%' src = 'https://pruvi007-apis.herokuapp.com/CF/pruv007' />
+
+### CodeChef Rating Card - pruvi007
+<img width='50%' src = 'https://pruvi007-apis.herokuapp.com/CC/pruvi007' />
